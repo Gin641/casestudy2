@@ -1,0 +1,2 @@
+id=2 | name= Gin | age= 19 | result= 6.0
+id=1 | name= Mon | age= 19 | result= 9.0
